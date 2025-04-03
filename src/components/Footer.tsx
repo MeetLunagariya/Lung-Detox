@@ -53,15 +53,15 @@ const Footer = () => {
             <div className="space-y-2">
               <p className="flex items-center text-gray-600">
                 <Phone className="h-5 w-5 mr-2" />
-                1-800-Healita
+                +91 73830 31942
               </p>
               <p className="flex items-center text-gray-600">
                 <Mail className="h-5 w-5 mr-2" />
-                contact@Healita.com
+                info.healita@gmail.com
               </p>
               <p className="flex items-center text-gray-600">
                 <MapPin className="h-5 w-5 mr-2" />
-                123 Health Street, Wellness City
+                Rainbow, Street-2, Block-2, Bolbala marg, Rajkot-360002, Gujarat, India.
               </p>
             </div>
           </div>
