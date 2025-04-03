@@ -60,7 +60,7 @@ const Footer = () => {
                 info.healita@gmail.com
               </p>
               <p className="flex items-center text-gray-600">
-                <MapPin className="h-5 w-5 mr-2" />
+                <MapPin className="min-h-5 min-w-5 mr-2" />
                 Rainbow, Street-2, Block-2, Bolbala marg, Rajkot-360002, Gujarat, India.
               </p>
             </div>
