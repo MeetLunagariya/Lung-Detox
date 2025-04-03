@@ -50,14 +50,14 @@ const Contact = () => {
                 <Phone className="h-6 w-6 text-orange-400 mr-4" />
                 <div>
                   <p className="font-medium">Phone</p>
-                  <p className="text-gray-600">1-800-Healita</p>
+                  <p className="text-gray-600">+91 73830 31942</p>
                 </div>
               </div>
               <div className="flex items-center">
                 <Mail className="h-6 w-6 text-orange-400 mr-4" />
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-gray-600">contact@Healita.com</p>
+                  <p className="text-gray-600"> info.healita@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center">
@@ -65,9 +65,9 @@ const Contact = () => {
                 <div>
                   <p className="font-medium">Address</p>
                   <p className="text-gray-600">
-                    123 Health Street,
+                    Rainbow, Street-2, Block-2, Bolbala marg,
                     <br />
-                    Wellness City, WC 12345
+                    Rajkot-360002, Gujarat, India.
                   </p>
                 </div>
               </div>
